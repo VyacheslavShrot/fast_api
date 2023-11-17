@@ -1,2 +1,1 @@
-# fast_api
-FastAPI |
+# Project on FastAPI
